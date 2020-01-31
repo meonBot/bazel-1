@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "third_party/protobuf/3.6.1/js/package.json"
+      ]
+    }
+  }
+}
